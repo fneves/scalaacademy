@@ -1,3 +1,3 @@
 # scalaacademy
 
-Checkpoint 2
+Checkpoint 3
