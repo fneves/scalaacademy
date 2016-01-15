@@ -1,1 +1,3 @@
 # scalaacademy
+
+Checkpoint 1
